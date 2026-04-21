@@ -1,0 +1,24 @@
+{
+  "project_root": ".",
+  "input_count": 51,
+  "status_counts": {
+    "native_text": 46,
+    "mixed_layer_partial_ocr": 1,
+    "needs_ocr_scanned": 4
+  },
+  "ocr_ready": false,
+  "rendered_examples": [
+    "output/diagnostics/pdf_extractability_renders/04_环境保护税法_2016_page1.png",
+    "output/diagnostics/pdf_extractability_renders/36_国务院关于加快经济社会发展全面绿色转型的意见_2024公布(OCR)_page1.png",
+    "output/diagnostics/pdf_extractability_renders/36_国务院关于加快经济社会发展全面绿色转型的意见_2024公布_page1.png",
+    "output/diagnostics/pdf_extractability_renders/37_关于推进污水资源化利用的指导意见_2021_page1.png",
+    "output/diagnostics/pdf_extractability_renders/38_空气质量持续改善行动计划_2023公布_page1.png"
+  ],
+  "flagged_relative_paths": [
+    "预调研/政策文件/04_环境保护税法_2016.pdf",
+    "预调研/政策文件/36_国务院关于加快经济社会发展全面绿色转型的意见_2024公布(OCR).pdf",
+    "预调研/政策文件/36_国务院关于加快经济社会发展全面绿色转型的意见_2024公布.pdf",
+    "预调研/政策文件/37_关于推进污水资源化利用的指导意见_2021.pdf",
+    "预调研/政策文件/38_空气质量持续改善行动计划_2023公布.pdf"
+  ]
+}

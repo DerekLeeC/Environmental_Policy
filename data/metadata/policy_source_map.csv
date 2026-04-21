@@ -1,0 +1,5 @@
+file_id,pdf_relative_path,source_type,source_url,source_title,retrieval_priority,notes
+36,预调研/政策文件/36_国务院关于加快经济社会发展全面绿色转型的意见_2024公布.pdf,official_html,https://www.mee.gov.cn/zcwj/zyygwj/202409/t20240911_1085676.shtml,中共中央 国务院关于加快经济社会发展全面绿色转型的意见,1,Use official HTML source instead of rasterized PDF when possible
+37,预调研/政策文件/37_关于推进污水资源化利用的指导意见_2021.pdf,official_html,https://www.ndrc.gov.cn/xxgk/zcfb/tz/202101/t20210111_1264794_ext.html,关于推进污水资源化利用的指导意见(发改环资〔2021〕13号),1,Official NDRC HTML page available
+38,预调研/政策文件/38_空气质量持续改善行动计划_2023公布.pdf,official_html,https://app.www.gov.cn/govdata/gov/202312/07/510055/article.html,国务院关于印发《空气质量持续改善行动计划》的通知,1,Government app mirror exposes searchable HTML
+36-ocr-dup,预调研/政策文件/36_国务院关于加快经济社会发展全面绿色转型的意见_2024公布(OCR).pdf,official_html,https://www.mee.gov.cn/zcwj/zyygwj/202409/t20240911_1085676.shtml,中共中央 国务院关于加快经济社会发展全面绿色转型的意见,2,Duplicate OCR-named file still not searchable; prefer same official source

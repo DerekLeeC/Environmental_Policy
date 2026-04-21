@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="633.55151pt" height="312.373562pt" viewBox="0 0 633.55151 312.373562" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-04-21T07:22:05.069976</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 312.373562 
+L 633.55151 312.373562 
+L 633.55151 0 
+L 0 0 
+z
+" style="fill: #fbf8f7"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 119.521875 289.573562 
+L 568.332435 289.573562 
+L 568.332435 23.461562 
+L 119.521875 23.461562 
+z
+" style="fill: #fbf8f7"/>
+   </g>
+   <g clip-path="url(#p4904d24e46)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAB08AAARVCAYAAADVDYjrAAAp9UlEQVR4nOzboWrXcRSH4XfySwaTTBiMgVEU/yDiildhFSwmb2g3YPUSFkxiMIgirAgiGARRTLZ5A7r0hTPxea7gk055OXsnR7vzAAAAAAAAAP5zV6YHAAAAAAAAAFwG4ikAAAAAAABA4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABUtU0PAGCtp2evpicAAAAAAMA/yecpAAAAAAAAQOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVOIpAAAAAAAAQCWeAgAAAAAAAFTiKQAAAAAAAEAlngIAAAAAAABU4ikAAAAAAABAJZ4CAAAAAAAAVLV3crQ7nx4BAAD82f7d29MTAFjoxu7O9AQAAOACPk8BAAAAAAAAEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAA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AAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoBJPAQAAAAAAACrxFAAAAAAAAKASTwEAAAAAAAAq8RQAAAAAAACgEk8BAAAAAAAAKvEUAAAAAAAAoKrty+s30xsAWMhdBwCAy+vw4fH0BAAW+vbubHoCAIv5PAUAAAAAAABIPAUAAAAAAACoxFMAAAAAAACASjwFAAAAAAAAqMRTAAAAAAAAgEo8BQAAAAAAAKjEUwAAAAAAAIBKPAUAAAAAAACoxFMAAAAAAACASjwFAAAAAAAAqMRTAAAAAAAAgEo8BQAAAAAAAKjEUwAAAAAAAIBKPAUAAAAAAACoxFMAAAAAAACASjwFAAAAAAAAqMRTAAAAAAAAgEo8BQAAAAAAAKjEUwAAAAAAAIBKPAUAAAAAAACoxFMAAAAAAACASjwFAAAAAAAAqMRTAAAAAAAAgEo8BQAAAAAAAKjEUwAAAAAAAIBKPAUAAAAAAACoxFMAAAAAAACASjwFAAAAAAAAqMRTAAAAAAAAgEo8BQAAAAAAAKjEUwAAAAAAAIBKPAUAAAAAAACoxFMAAAAAAACASjwFAAAAAAAAqMRTAAAAAAAAgEo8BQAAAAAAAKjEUwAAAAAAAIBKPAUAAAAAAACoxFMAAAAAAACASjwFAAAAAAAAqMRTAAAAAAAAgEo8BQAAAAAAAKjEUwAAAAAAAIBKPAUAAAAAAACoxFMAAAAAAACASjwFAAAAAAAAqMRTAAAAAAAAgEo8BQAAAAAAAKjEUwAAAAAAAIBKPAUAAAAAAACoxFMAAAAAAACASjwFAAAAAAAAqMRTAAAAAAAAgEo8BQAAAAAAAKjEUwAAAAAAAIBKPAUAAAAAAACoxFMAAAAAAACASjwFAAAAAAAAqMRTAAAAAAAAgEo8BQAAAAAAAKjEUwAAAAAAAIBKPAUAAAAAAACoxFMAAAAAAACASjwFAAAAAAAAqMRTAAAAAAAAgEo8BQAAAAAAAKjEUwAAAAAAAIBKPAUAAAAAAACoxFMAAAAAAACASjwFAAAAAAAAqMRTAAAAAAAAgEo8BQAAAAAAAKjEUwAAAAAAAIBKPAUAAAAAAACoxFMAAAAAAACASjwFAAAAAAAAqMRTAAAAAAAAgEo8BQAAAAAAAKjEUwAAAAAAAIBKPAUAAAAAAACoxFMAAAAAAACASjwFAAAAAAAAqMRTAAAAAAAAgEo8BQAAAAAAAKjEUwAAAAAAAIBKPAUAAAAAAACoxFMAAAAAAACASjwFAAAAAAAAqMRTAAAAAAAAgEo8BQAAAAAAAKjEUwAAAAAAAIBKPAUAAAAAAACoxFMAAAAAAACASjwFAAAAAAAAqMRTAAAAAAAAgEo8BQAAAAAAAKjEUwAAAAAAAIBKPAUAAAAAAACoxFMAAAAAAACASjwFAAAAAAAAqMRTAAAAAAAAgEo8BQAAAAAAAKjEUwAAAAAAAIBKPAUAAAAAAACoxFMAAAAAAACASjwFAAAAAAAAqMRTAAAAAAAAgEo8BQAAAAAAAKjEUwAAAAAAAIBKPAUAAAAAAACoxFMAAAAAAACASjwFAAAAAAAAqMRTAAAAAAAAgEo8BQAAAAAAAKjEUwAAAAAAAIBKPAUAAAAAAACoxFMAAAAAAACASjwFAAAAAAAAqMRTAAAAAAAAgEo8BQAAAAAAAKjEUwAAAAAAAIBKPAUAAAAAAACoxFMAAAAAAACASjwFAAAAAAAAqMRTAAAAAAAAgEo8BQAAAAAAAKjEUwAAAAAAAIBKPAUAAAAAAACoxFMAAAAAAACASjwFAAAAAAAAqMRTAAAAAAAAgEo8BQAAAAAAAKjEUwA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" id="imagefdcb0f9e5d" transform="scale(1 -1) translate(0 -266.16)" x="119.521875" y="-23.413562" width="449.04" height="266.16"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m72b26da146" d="M 0 0 
+L 0 3.5 
+" style="stroke: #2b2325; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m72b26da146" x="164.402931" y="289.573562" style="fill: #2b2325; stroke: #2b2325; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2b2325" x="164.402931" y="303.773562" transform="rotate(-0 164.402931 303.773562)">Command</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m72b26da146" x="254.165043" y="289.573562" style="fill: #2b2325; stroke: #2b2325; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2b2325" x="254.165043" y="303.773562" transform="rotate(-0 254.165043 303.773562)">Disclosure</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m72b26da146" x="343.927155" y="289.573562" style="fill: #2b2325; stroke: #2b2325; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2b2325" x="343.927155" y="303.773562" transform="rotate(-0 343.927155 303.773562)">Incentive</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m72b26da146" x="433.689267" y="289.573562" style="fill: #2b2325; stroke: #2b2325; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2b2325" x="433.689267" y="303.773562" transform="rotate(-0 433.689267 303.773562)">Market</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m72b26da146" x="523.451379" y="289.573562" style="fill: #2b2325; stroke: #2b2325; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2b2325" x="523.451379" y="303.773562" transform="rotate(-0 523.451379 303.773562)">Voluntary</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <path d="M 119.521875 289.573562 
+L 119.521875 23.461562 
+" clip-path="url(#p4904d24e46)" style="fill: none; stroke: #fbf8f7; stroke-width: 1.2; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <path d="M 209.283987 289.573562 
+L 209.283987 23.461562 
+" clip-path="url(#p4904d24e46)" style="fill: none; stroke: #fbf8f7; stroke-width: 1.2; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8">
+      <path d="M 299.046099 289.573562 
+L 299.046099 23.461562 
+" clip-path="url(#p4904d24e46)" style="fill: none; stroke: #fbf8f7; stroke-width: 1.2; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_9">
+      <path d="M 388.808211 289.573562 
+L 388.808211 23.461562 
+" clip-path="url(#p4904d24e46)" style="fill: none; stroke: #fbf8f7; stroke-width: 1.2; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_10">
+      <path d="M 478.570323 289.573562 
+L 478.570323 23.461562 
+" clip-path="url(#p4904d24e46)" style="fill: none; stroke: #fbf8f7; stroke-width: 1.2; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_11">
+      <path d="M 568.332435 289.573562 
+L 568.332435 23.461562 
+" clip-path="url(#p4904d24e46)" style="fill: none; stroke: #fbf8f7; stroke-width: 1.2; stroke-linecap: square"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_12">
+      <defs>
+       <path id="m7d7c3e3059" d="M 0 0 
+L -3.5 0 
+" style="stroke: #2b2325; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m7d7c3e3059" x="119.521875" y="42.469562" style="fill: #2b2325; stroke: #2b2325; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #2b2325" x="112.521875" y="46.069562" transform="rotate(-0 112.521875 46.069562)">Law</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m7d7c3e3059" x="119.521875" y="80.485562" style="fill: #2b2325; stroke: #2b2325; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #2b2325" x="112.521875" y="84.085562" transform="rotate(-0 112.521875 84.085562)">Administrative regulation</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m7d7c3e3059" x="119.521875" y="118.501562" style="fill: #2b2325; stroke: #2b2325; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #2b2325" x="112.521875" y="122.101562" transform="rotate(-0 112.521875 122.101562)">Admin rule</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m7d7c3e3059" x="119.521875" y="156.517562" style="fill: #2b2325; stroke: #2b2325; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #2b2325" x="112.521875" y="160.117562" transform="rotate(-0 112.521875 160.117562)">Policy document</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m7d7c3e3059" x="119.521875" y="194.533562" style="fill: #2b2325; stroke: #2b2325; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #2b2325" x="112.521875" y="198.133562" transform="rotate(-0 112.521875 198.133562)">Local regulation</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m7d7c3e3059" x="119.521875" y="232.549562" style="fill: #2b2325; stroke: #2b2325; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #2b2325" x="112.521875" y="236.149562" transform="rotate(-0 112.521875 236.149562)">Admin rule / technical</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m7d7c3e3059" x="119.521875" y="270.565562" style="fill: #2b2325; stroke: #2b2325; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #2b2325" x="112.521875" y="274.165562" transform="rotate(-0 112.521875 274.165562)">Not explicit in text</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_19">
+      <path d="M 119.521875 23.461562 
+L 568.332435 23.461562 
+" clip-path="url(#p4904d24e46)" style="fill: none; stroke: #fbf8f7; stroke-width: 1.2; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_20">
+      <path d="M 119.521875 61.477562 
+L 568.332435 61.477562 
+" clip-path="url(#p4904d24e46)" style="fill: none; stroke: #fbf8f7; stroke-width: 1.2; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_21">
+      <path d="M 119.521875 99.493562 
+L 568.332435 99.493562 
+" clip-path="url(#p4904d24e46)" style="fill: none; stroke: #fbf8f7; stroke-width: 1.2; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_22">
+      <path d="M 119.521875 137.509562 
+L 568.332435 137.509562 
+" clip-path="url(#p4904d24e46)" style="fill: none; stroke: #fbf8f7; stroke-width: 1.2; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_23">
+      <path d="M 119.521875 175.525562 
+L 568.332435 175.525562 
+" clip-path="url(#p4904d24e46)" style="fill: none; stroke: #fbf8f7; stroke-width: 1.2; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_24">
+      <path d="M 119.521875 213.541562 
+L 568.332435 213.541562 
+" clip-path="url(#p4904d24e46)" style="fill: none; stroke: #fbf8f7; stroke-width: 1.2; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_25">
+      <path d="M 119.521875 251.557562 
+L 568.332435 251.557562 
+" clip-path="url(#p4904d24e46)" style="fill: none; stroke: #fbf8f7; stroke-width: 1.2; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_26">
+      <path d="M 119.521875 289.573562 
+L 568.332435 289.573562 
+" clip-path="url(#p4904d24e46)" style="fill: none; stroke: #fbf8f7; stroke-width: 1.2; stroke-linecap: square"/>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 119.521875 289.573562 
+L 119.521875 23.461562 
+" style="fill: none; stroke: #d8ccd0; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 119.521875 289.573562 
+L 568.332435 289.573562 
+" style="fill: none; stroke: #d8ccd0; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="164.402931" y="45.37425" transform="rotate(-0 164.402931 45.37425)">100.0</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="254.165043" y="45.37425" transform="rotate(-0 254.165043 45.37425)">93.3</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="343.927155" y="45.37425" transform="rotate(-0 343.927155 45.37425)">86.7</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2b2325" x="433.689267" y="45.37425" transform="rotate(-0 433.689267 45.37425)">13.3</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="523.451379" y="45.37425" transform="rotate(-0 523.451379 45.37425)">66.7</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="164.402931" y="83.39025" transform="rotate(-0 164.402931 83.39025)">100.0</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="254.165043" y="83.39025" transform="rotate(-0 254.165043 83.39025)">100.0</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="343.927155" y="83.39025" transform="rotate(-0 343.927155 83.39025)">66.7</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2b2325" x="433.689267" y="83.39025" transform="rotate(-0 433.689267 83.39025)">44.4</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2b2325" x="523.451379" y="83.39025" transform="rotate(-0 523.451379 83.39025)">44.4</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="164.402931" y="121.40625" transform="rotate(-0 164.402931 121.40625)">83.3</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="254.165043" y="121.40625" transform="rotate(-0 254.165043 121.40625)">66.7</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2b2325" x="343.927155" y="121.40625" transform="rotate(-0 343.927155 121.40625)">0.0</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2b2325" x="433.689267" y="121.40625" transform="rotate(-0 433.689267 121.40625)">33.3</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2b2325" x="523.451379" y="121.40625" transform="rotate(-0 523.451379 121.40625)">0.0</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="164.402931" y="159.42225" transform="rotate(-0 164.402931 159.42225)">100.0</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="254.165043" y="159.42225" transform="rotate(-0 254.165043 159.42225)">100.0</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="343.927155" y="159.42225" transform="rotate(-0 343.927155 159.42225)">100.0</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="433.689267" y="159.42225" transform="rotate(-0 433.689267 159.42225)">90.9</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="523.451379" y="159.42225" transform="rotate(-0 523.451379 159.42225)">90.9</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="164.402931" y="197.43825" transform="rotate(-0 164.402931 197.43825)">100.0</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="254.165043" y="197.43825" transform="rotate(-0 254.165043 197.43825)">100.0</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="343.927155" y="197.43825" transform="rotate(-0 343.927155 197.43825)">85.7</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="433.689267" y="197.43825" transform="rotate(-0 433.689267 197.43825)">71.4</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="523.451379" y="197.43825" transform="rotate(-0 523.451379 197.43825)">71.4</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="164.402931" y="235.45425" transform="rotate(-0 164.402931 235.45425)">100.0</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2b2325" x="254.165043" y="235.45425" transform="rotate(-0 254.165043 235.45425)">0.0</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2b2325" x="343.927155" y="235.45425" transform="rotate(-0 343.927155 235.45425)">0.0</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2b2325" x="433.689267" y="235.45425" transform="rotate(-0 433.689267 235.45425)">0.0</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2b2325" x="523.451379" y="235.45425" transform="rotate(-0 523.451379 235.45425)">0.0</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="164.402931" y="273.47025" transform="rotate(-0 164.402931 273.47025)">100.0</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="254.165043" y="273.47025" transform="rotate(-0 254.165043 273.47025)">100.0</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="343.927155" y="273.47025" transform="rotate(-0 343.927155 273.47025)">100.0</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="433.689267" y="273.47025" transform="rotate(-0 433.689267 273.47025)">100.0</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="523.451379" y="273.47025" transform="rotate(-0 523.451379 273.47025)">100.0</text>
+   </g>
+   <g id="text_48">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2b2325" x="343.927155" y="17.461562" transform="rotate(-0 343.927155 17.461562)">Figure 2. Tool prevalence by policy type</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_5">
+    <path d="M 587.974035 289.573562 
+L 601.279635 289.573562 
+L 601.279635 23.461562 
+L 587.974035 23.461562 
+z
+" style="fill: #fbf8f7"/>
+   </g>
+   <image xlink:href="data:image/png;base64,
+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" id="image2a35c8e3c9" transform="scale(1 -1) translate(0 -266.16)" x="588" y="-23.28" width="13.2" height="266.16"/>
+   <g id="matplotlib.axis_3"/>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_16">
+     <g id="line2d_27">
+      <defs>
+       <path id="maa8dceac71" d="M 0 0 
+L 3.5 0 
+" style="stroke: #2b2325; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#maa8dceac71" x="601.279635" y="289.573562" style="fill: #2b2325; stroke: #2b2325; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_49">
+      <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #2b2325" x="608.279635" y="293.173562" transform="rotate(-0 608.279635 293.173562)">0</text>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#maa8dceac71" x="601.279635" y="236.351162" style="fill: #2b2325; stroke: #2b2325; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_50">
+      <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #2b2325" x="608.279635" y="239.951162" transform="rotate(-0 608.279635 239.951162)">20</text>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_29">
+      <g>
+       <use xlink:href="#maa8dceac71" x="601.279635" y="183.128762" style="fill: #2b2325; stroke: #2b2325; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_51">
+      <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #2b2325" x="608.279635" y="186.728762" transform="rotate(-0 608.279635 186.728762)">40</text>
+     </g>
+    </g>
+    <g id="ytick_19">
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#maa8dceac71" x="601.279635" y="129.906362" style="fill: #2b2325; stroke: #2b2325; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_52">
+      <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #2b2325" x="608.279635" y="133.506362" transform="rotate(-0 608.279635 133.506362)">60</text>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="line2d_31">
+      <g>
+       <use xlink:href="#maa8dceac71" x="601.279635" y="76.683962" style="fill: #2b2325; stroke: #2b2325; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_53">
+      <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #2b2325" x="608.279635" y="80.283962" transform="rotate(-0 608.279635 80.283962)">80</text>
+     </g>
+    </g>
+    <g id="ytick_21">
+     <g id="line2d_32">
+      <g>
+       <use xlink:href="#maa8dceac71" x="601.279635" y="23.461562" style="fill: #2b2325; stroke: #2b2325; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_54">
+      <text style="font-size: 10px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #2b2325" x="608.279635" y="27.061562" transform="rotate(-0 608.279635 27.061562)">100</text>
+     </g>
+    </g>
+    <g id="text_55">
+     <text style="font-size: 11px; font-family: 'Songti SC', 'STSong', 'PingFang SC', 'Hiragino Sans GB', 'Arial Unicode MS', 'Noto Sans CJK SC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2b2325" x="624.746197" y="156.517562" transform="rotate(-90 624.746197 156.517562)">Share of documents (%)</text>
+    </g>
+   </g>
+   <g id="LineCollection_1"/>
+   <g id="patch_6">
+    <path d="M 587.974035 289.573562 
+L 594.626835 289.573562 
+L 601.279635 289.573562 
+L 601.279635 23.461562 
+L 594.626835 23.461562 
+L 587.974035 23.461562 
+L 587.974035 289.573562 
+z
+" style="fill: none; stroke: #d8ccd0; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p4904d24e46">
+   <rect x="119.521875" y="23.461562" width="448.81056" height="266.112"/>
+  </clipPath>
+ </defs>
+</svg>

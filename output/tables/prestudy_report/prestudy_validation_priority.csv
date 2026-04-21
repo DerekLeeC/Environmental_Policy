@@ -1,0 +1,11 @@
+﻿file_name,pilot_role,validation_priority,pilot_field_agreement_mean
+04_环境保护税法_2016.pdf,mixed_layer_partial_ocr,P1,0.4666
+05_碳排放权交易管理办法_2021_生态环境部.pdf,market_instrument_native,P2,0.3866
+09_企业环境信息依法披露管理办法_2021_生态环境部.pdf,information_disclosure_native,P1,0.45999999999999996
+10_北京市大气污染防治条例_2014.pdf,local_regulation_native,P1,0.61
+12_中华人民共和国大气污染防治法_2018修正.pdf,long_central_law,P1,0.5532
+24_碳排放权交易管理暂行条例_2024公布.pdf,central_market_regulation,P2,0.4666
+36_国务院关于加快经济社会发展全面绿色转型的意见_2024公布.pdf,official_html_rescue_green_transition,P1,0.4332
+37_关于推进污水资源化利用的指导意见_2021.pdf,official_html_rescue_water_reuse,P1,0.3866
+38_空气质量持续改善行动计划_2023公布.pdf,official_html_rescue_air_action,P1,0.6934
+45_上海市环境保护条例_2022公布.pdf,local_comprehensive_regulation,P2,0.4386

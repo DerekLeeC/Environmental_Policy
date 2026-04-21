@@ -1,0 +1,11 @@
+order,file_name,pilot_role,expected_text_source,validation_priority,why_included
+1,04_环境保护税法_2016.pdf,mixed_layer_partial_ocr,mixed_layer_partial_ocr,P1,mixed-layer file and legal text; test partial-OCR tolerance
+2,05_碳排放权交易管理办法_2021_生态环境部.pdf,market_instrument_native,native_text,P2,central ministry market-instrument policy
+3,09_企业环境信息依法披露管理办法_2021_生态环境部.pdf,information_disclosure_native,native_text,P1,information-disclosure policy with clear reporting obligations
+4,10_北京市大气污染防治条例_2014.pdf,local_regulation_native,native_text,P1,local regulation to compare against central policies
+5,12_中华人民共和国大气污染防治法_2018修正.pdf,long_central_law,native_text,P1,long legal document; stress-test chunking and extraction stability
+6,24_碳排放权交易管理暂行条例_2024公布.pdf,central_market_regulation,native_text,P2,newer carbon market regulation; compare with ministry-level measure
+7,36_国务院关于加快经济社会发展全面绿色转型的意见_2024公布.pdf,official_html_rescue_green_transition,official_html_rescue,P1,rescued rasterized opinion; broad and cross-sector
+8,37_关于推进污水资源化利用的指导意见_2021.pdf,official_html_rescue_water_reuse,official_html_rescue,P1,rescued guidance opinion; tests rescue provenance
+9,38_空气质量持续改善行动计划_2023公布.pdf,official_html_rescue_air_action,official_html_rescue,P1,rescued action plan; key policy for air-quality line
+10,45_上海市环境保护条例_2022公布.pdf,local_comprehensive_regulation,native_text,P2,recent local comprehensive regulation; tests local adaptation signals

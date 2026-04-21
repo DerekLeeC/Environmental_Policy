@@ -1,0 +1,1135 @@
+{
+  "package_name": "env_policy_prestudy_openrepro_20260421",
+  "built_at": "2026-04-21T07:52:16",
+  "source_project_root": "环境政策项目",
+  "file_count": 223,
+  "total_size_bytes": 115389568,
+  "sanitization_rules": [
+    "remove absolute project-root prefixes",
+    "replace sk-* style API tokens with placeholders",
+    "drop compiled caches and local debug artifacts",
+    "keep source files unchanged and build a standalone copy under archive/"
+  ],
+  "files": [
+    {
+      "relative_path": ".env.example",
+      "size_bytes": 370,
+      "sha256": "71111f5b8e02ec75c1f7b4312dd5ec990c0418593ff3fd55b282a5f2b2b027eb"
+    },
+    {
+      "relative_path": ".gitignore",
+      "size_bytes": 177,
+      "sha256": "da6b007c839453ccf702bd8e7f0e903d704a32c32b1c6bfd2ca01bead10c7761"
+    },
+    {
+      "relative_path": "LICENSE",
+      "size_bytes": 1056,
+      "sha256": "1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685"
+    },
+    {
+      "relative_path": "Makefile",
+      "size_bytes": 627,
+      "sha256": "a9b54af43fca7ea3c5a37c56109dbab12deec1e871a86a803d395cd9536c7e3a"
+    },
+    {
+      "relative_path": "README.md",
+      "size_bytes": 2572,
+      "sha256": "84dfe5cb2ead522ed8d9dd635ca08014c61bad5fc5364df8330590b1513e61ee"
+    },
+    {
+      "relative_path": "REPLICATION_README.md",
+      "size_bytes": 1700,
+      "sha256": "b43ca936bc5eab2b5efeb3071f4ab25d396ceacba9d75ecc8967906533431951"
+    },
+    {
+      "relative_path": "data/interim/source_text/36_国务院关于加快经济社会发展全面绿色转型的意见_2024公布.txt",
+      "size_bytes": 27867,
+      "sha256": "a81e7a3ce4fc6a899487da8769cdb302df361e9f5a5d196b3bb50c7eeb71a5c8"
+    },
+    {
+      "relative_path": "data/interim/source_text/36_国务院关于加快经济社会发展全面绿色转型的意见_2024公布_OCR_.txt",
+      "size_bytes": 27867,
+      "sha256": "a81e7a3ce4fc6a899487da8769cdb302df361e9f5a5d196b3bb50c7eeb71a5c8"
+    },
+    {
+      "relative_path": "data/interim/source_text/37_关于推进污水资源化利用的指导意见_2021.txt",
+      "size_bytes": 14792,
+      "sha256": "1a8bbc807a0184413e5021982659996e4b2a9541ed759848c6b3545c2a36d088"
+    },
+    {
+      "relative_path": "data/interim/source_text/38_空气质量持续改善行动计划_2023公布.txt",
+      "size_bytes": 25779,
+      "sha256": "0a06a198262b2ba473906af1d6c717fc840fb342a5fed4e13c1272f89cfac8f8"
+    },
+    {
+      "relative_path": "data/metadata/data_inventory.md",
+      "size_bytes": 3831,
+      "sha256": "cd073c1963d69889a83703c190a46fb5c614949e9502a690485a5a9d25464331"
+    },
+    {
+      "relative_path": "data/metadata/data_linkage_plan.md",
+      "size_bytes": 3392,
+      "sha256": "dfd2f03c9f40de00983d6ef130db019190e49e49d054128890341d1912115958"
+    },
+    {
+      "relative_path": "data/metadata/llm_extraction_schema.md",
+      "size_bytes": 3485,
+      "sha256": "f7524ef99907d1273fd7e8cdb8e6ebe6a2eb665e6a484dee99258bf2c6916e5b"
+    },
+    {
+      "relative_path": "data/metadata/llm_validation_log_template.csv",
+      "size_bytes": 192,
+      "sha256": "48d5642f78bc10a4330550b8d75827f64a78ddd19577ebb2e9268c6f13dbf6cd"
+    },
+    {
+      "relative_path": "data/metadata/pilot_validation_sample.csv",
+      "size_bytes": 1718,
+      "sha256": "509710dd2694233cbbb0914901382e3ad01f3ffed69105680ce69c3013da11df"
+    },
+    {
+      "relative_path": "data/metadata/pilot_validation_sheet.csv",
+      "size_bytes": 31387,
+      "sha256": "06be4b3bafc3dbee9abd7221554133207e3c93b242ba361ea83df5d1ee08bb4b"
+    },
+    {
+      "relative_path": "data/metadata/policy_pdf_inventory.csv",
+      "size_bytes": 8927,
+      "sha256": "76489e1b4050787ce20110adf4837804dee1b9ef27a84f3faef1008c92658910"
+    },
+    {
+      "relative_path": "data/metadata/policy_source_map.csv",
+      "size_bytes": 1353,
+      "sha256": "0bb4fd8810ff48d7a35ca77f9ff430ffce1785f99a868d02c1b7db2214be2ce1"
+    },
+    {
+      "relative_path": "data/raw/source_html/36_国务院关于加快经济社会发展全面绿色转型的意见_2024公布.html",
+      "size_bytes": 66313,
+      "sha256": "e33ca3a67e1a5c5cb58c8b0f1e8cbb6b142cafdbf8df449e10b5e22b8dd52175"
+    },
+    {
+      "relative_path": "data/raw/source_html/36_国务院关于加快经济社会发展全面绿色转型的意见_2024公布_OCR_.html",
+      "size_bytes": 66313,
+      "sha256": "e33ca3a67e1a5c5cb58c8b0f1e8cbb6b142cafdbf8df449e10b5e22b8dd52175"
+    },
+    {
+      "relative_path": "data/raw/source_html/37_关于推进污水资源化利用的指导意见_2021.html",
+      "size_bytes": 21540,
+      "sha256": "ed29c7e8c85567d0131eb65df676b48444204898b32bce36d2ed51dee8cccd09"
+    },
+    {
+      "relative_path": "data/raw/source_html/38_空气质量持续改善行动计划_2023公布.html",
+      "size_bytes": 34742,
+      "sha256": "e96e084d5bb8c26efaf98e70a048db908ad906a02c53392a67108b5398788d05"
+    },
+    {
+      "relative_path": "output/diagnostics/pdf_extractability_report.csv",
+      "size_bytes": 15169,
+      "sha256": "b64d73418484e337e8de2dbc511857d7d4a1846f4b95cfaa47498ef3d25c668e"
+    },
+    {
+      "relative_path": "output/diagnostics/pdf_extractability_summary.json",
+      "size_bytes": 1330,
+      "sha256": "c1f1637f1af4b6ebdaf20aeb61102f08123df10dabd5cbc7124a485ab227d5ee"
+    },
+    {
+      "relative_path": "output/diagnostics/policy_source_rescue_summary.json",
+      "size_bytes": 2315,
+      "sha256": "025127a557fd03c5f8c4859480b2d65ee323685479e401bf1687988cc12b2b20"
+    },
+    {
+      "relative_path": "output/figures/prestudy_report/fig1_sample_timeline.pdf",
+      "size_bytes": 34022,
+      "sha256": "bf7f96647ab24442a8347487eebddbe7ed44efa09a3898185303a47e97cd584a"
+    },
+    {
+      "relative_path": "output/figures/prestudy_report/fig1_sample_timeline.png",
+      "size_bytes": 198951,
+      "sha256": "e671f31a49be0c910ac57eb37384d3a8d6a45baca39bf43316511c7a82208dc5"
+    },
+    {
+      "relative_path": "output/figures/prestudy_report/fig1_sample_timeline.svg",
+      "size_bytes": 52667,
+      "sha256": "4e1d3c04cf4459039863be3fc86f0ec8ed7d06aeb8bf28b0383bd297ad241b9e"
+    },
+    {
+      "relative_path": "output/figures/prestudy_report/fig2_tool_heatmap.pdf",
+      "size_bytes": 41326,
+      "sha256": "9e3ecd1113cf7f123d755c5deb829b6137a063e0e4552fd0e8cbcbc25ac86b4a"
+    },
+    {
+      "relative_path": "output/figures/prestudy_report/fig2_tool_heatmap.png",
+      "size_bytes": 185130,
+      "sha256": "bdbbd1d7a46352112351f2fd408d16c6cbce1f4099cc18b5f5ab4dde0ffcfd6b"
+    },
+    {
+      "relative_path": "output/figures/prestudy_report/fig2_tool_heatmap.svg",
+      "size_bytes": 44954,
+      "sha256": "9864ceabe65c27ee9c536a40dc00013988cc99ab9e203a72fa31595c2e56cd63"
+    },
+    {
+      "relative_path": "output/figures/prestudy_report/fig3_objective_profile.pdf",
+      "size_bytes": 23098,
+      "sha256": "fce0206f83f6072097e3e4e3a4c02888a870498ae0d9f612b9e3f698c85ec30d"
+    },
+    {
+      "relative_path": "output/figures/prestudy_report/fig3_objective_profile.png",
+      "size_bytes": 127185,
+      "sha256": "fa91e9ae1f9b63e19f3ced3665c299933908b7a6ee861744c77986fd36c1452e"
+    },
+    {
+      "relative_path": "output/figures/prestudy_report/fig3_objective_profile.svg",
+      "size_bytes": 31699,
+      "sha256": "168a388efc158fa10d40ee46829d264243f1e79d190e7af3357dd3429bf595e2"
+    },
+    {
+      "relative_path": "output/figures/prestudy_report/fig4_dimension_agreement.pdf",
+      "size_bytes": 31931,
+      "sha256": "8eb6be5801929df8579a871370f1b58a38a67f28dc92dbd429ad3d2c63778527"
+    },
+    {
+      "relative_path": "output/figures/prestudy_report/fig4_dimension_agreement.png",
+      "size_bytes": 256719,
+      "sha256": "24a7ee45e0e366bc25dff4a165de992916248045cfb4c4c583e07b4b17b51398"
+    },
+    {
+      "relative_path": "output/figures/prestudy_report/fig4_dimension_agreement.svg",
+      "size_bytes": 34586,
+      "sha256": "0071e826666f75a0b5020b1e15eb4cc6e0efd5b3f2cd29b7adf40baaa81a0a50"
+    },
+    {
+      "relative_path": "output/figures/prestudy_report/fig5_document_agreement.pdf",
+      "size_bytes": 21827,
+      "sha256": "0dfa3c0645623296c3684394e8bfa7e5612814bb9cbb9ea41bf3d2db4e1e3a7f"
+    },
+    {
+      "relative_path": "output/figures/prestudy_report/fig5_document_agreement.png",
+      "size_bytes": 175943,
+      "sha256": "14d4916a0d50d1dab776124709d6f395b0de209088f4a157d3b0579e1646d96f"
+    },
+    {
+      "relative_path": "output/figures/prestudy_report/fig5_document_agreement.svg",
+      "size_bytes": 28455,
+      "sha256": "8841f662f668a883b6eabf2e5c2e0cae415df84bb70f689f4d85d8165a8f4777"
+    },
+    {
+      "relative_path": "output/figures/prestudy_report/fig6_top_references.pdf",
+      "size_bytes": 27457,
+      "sha256": "754f567960b9b00fb57a3b98ef5c2468b029b8526ac0c9049be72ce1941ac608"
+    },
+    {
+      "relative_path": "output/figures/prestudy_report/fig6_top_references.png",
+      "size_bytes": 164384,
+      "sha256": "065a54db027e7e6ef3008c33c1f907f495beadcb457ef8a7241e71150e3e41a2"
+    },
+    {
+      "relative_path": "output/figures/prestudy_report/fig6_top_references.svg",
+      "size_bytes": 20826,
+      "sha256": "a6ee878c43e20234bceb9b728a4d1aabc2eb8b4078b9bcfbce48e78c5a336348"
+    },
+    {
+      "relative_path": "output/tables/prestudy_report/prestudy_asset_summary.md",
+      "size_bytes": 1327,
+      "sha256": "31ab48c9773ba41d1dd3c0d60e854e677f125852d8c798852ebe61b9b572fdcc"
+    },
+    {
+      "relative_path": "output/tables/prestudy_report/prestudy_dimension_agreement.csv",
+      "size_bytes": 1204,
+      "sha256": "8e7586674f6e2347cf49aaa82c746a273166c1094630a490fb39a5735aaef6ec"
+    },
+    {
+      "relative_path": "output/tables/prestudy_report/prestudy_doc_summary.csv",
+      "size_bytes": 100575,
+      "sha256": "e59d1491481b6db0dfd3b6c22f0db55a5cf81a1cd04d1d7b513ffa7df668e9d9"
+    },
+    {
+      "relative_path": "output/tables/prestudy_report/prestudy_model_quality.csv",
+      "size_bytes": 4845,
+      "sha256": "5a9d62a8dab587737f28bcbe3b8896c6a6edb42e85206741c5ed43ee2beb9fd0"
+    },
+    {
+      "relative_path": "output/tables/prestudy_report/prestudy_tool_prevalence.csv",
+      "size_bytes": 1677,
+      "sha256": "8bdcd1d57e572b27d39afcf34fc181fc07da61f2b9b4f16d73e3be9777eadc59"
+    },
+    {
+      "relative_path": "output/tables/prestudy_report/prestudy_top_implementation_mechanisms.csv",
+      "size_bytes": 347,
+      "sha256": "aa8ba567ce73a927abf4f0598ae18ff4c5057bdd5410b4e92bf9b5842bda632c"
+    },
+    {
+      "relative_path": "output/tables/prestudy_report/prestudy_top_referenced_policies.csv",
+      "size_bytes": 577,
+      "sha256": "775992135515b0b1099f0d1da839828340a7dec58856171c3bd7a596bae70735"
+    },
+    {
+      "relative_path": "output/tables/prestudy_report/prestudy_validation_priority.csv",
+      "size_bytes": 1032,
+      "sha256": "8fbf3531aa70e5db52152b9e2ebc934ffb91353d751179bc0951547bc3062403"
+    },
+    {
+      "relative_path": "paper/prestudy_report_20260421.md",
+      "size_bytes": 16889,
+      "sha256": "59273a54482b4f4ca15c8d9552a9dadb0249b4ec1bb9ffd8d37f5c862ff8632f"
+    },
+    {
+      "relative_path": "paper/prestudy_report_20260421.pdf",
+      "size_bytes": 1270263,
+      "sha256": "76f2060ee6d0ab2d316cd2cbe3a005cf3d70af4688ae63320ca5b8477311b0c7"
+    },
+    {
+      "relative_path": "paper/prestudy_report_20260421.tex",
+      "size_bytes": 4382,
+      "sha256": "9ea823335f40b80e5c26400cc8ee22e20fd34d94b5bfa59e565a8c4c8cd9b768"
+    },
+    {
+      "relative_path": "paper/prestudy_report_20260421_body.tex",
+      "size_bytes": 18162,
+      "sha256": "5f500f17a021beab605e24660a061a6859142e4219ef1a127ff304417896a819"
+    },
+    {
+      "relative_path": "requirements.txt",
+      "size_bytes": 104,
+      "sha256": "02bc757ac6f14fe8211885cc6c98ebe7af70f417666a49e02fd6f85d9f60444f"
+    },
+    {
+      "relative_path": "scripts/analysis/00_run_prestudy_pilot_oneclick.py",
+      "size_bytes": 4312,
+      "sha256": "678332792757539be37283f630bd301d680dc81358f60b8b8f3f84669374a2b8"
+    },
+    {
+      "relative_path": "scripts/analysis/01_run_prestudy_pilot.py",
+      "size_bytes": 10624,
+      "sha256": "ca33452045c9af88c2818d791728dce6b4761dbcc264d640333adf6e20b3dc99"
+    },
+    {
+      "relative_path": "scripts/analysis/02_build_prestudy_validation_sheet.py",
+      "size_bytes": 6533,
+      "sha256": "f3c285a5de27ec4722f9dd2a241adc72b4ad1b16c018bbeb5450e89a42da580d"
+    },
+    {
+      "relative_path": "scripts/analysis/04_build_prestudy_report_assets.py",
+      "size_bytes": 28512,
+      "sha256": "874ac8885e364fbcbd87443df0d7bb0434880156197bc6c56b1c649351541a00"
+    },
+    {
+      "relative_path": "scripts/analysis/05_build_prestudy_report_latex.py",
+      "size_bytes": 10724,
+      "sha256": "a41bebd243fae3c1b78531499567593ef8f9ac27ac5ffc9be0d047a61387bcc3"
+    },
+    {
+      "relative_path": "scripts/build/01_project_intake_audit.py",
+      "size_bytes": 8008,
+      "sha256": "6968cda98df629e5f669b2ea1f2aad41f8be90f0308812ac0e0a5da5e588da5f"
+    },
+    {
+      "relative_path": "scripts/build/02_pdf_extractability_diagnose.py",
+      "size_bytes": 11857,
+      "sha256": "915460adbd1f18a46143293a366811be766eed913bfd4a30528902df493f421b"
+    },
+    {
+      "relative_path": "scripts/build/03_policy_source_rescue.py",
+      "size_bytes": 4164,
+      "sha256": "a70cc81ab19ed303092b665bc628a62f4a73388c54b917f810bba3419b5ad36a"
+    },
+    {
+      "relative_path": "预调研/README.md",
+      "size_bytes": 8269,
+      "sha256": "f3eb7b210caf449522618f8e25b8926823dd6ac0dc5ef4d491c2da8ec25e1079"
+    },
+    {
+      "relative_path": "预调研/code/config.py",
+      "size_bytes": 12283,
+      "sha256": "f3bc24f66686679036bf0b9793f5e65e2bb4bf1a3e9167238c841b103d4502d4"
+    },
+    {
+      "relative_path": "预调研/code/download_policies.py",
+      "size_bytes": 22432,
+      "sha256": "2c1cfdcf114e37c9498e102d2191e72c7e008b24027b61010fce9968084d0f52"
+    },
+    {
+      "relative_path": "预调研/code/llm_extractor.py",
+      "size_bytes": 39959,
+      "sha256": "f2fbb3d9a026ec640ad67faa3fa062f367a069398dfec7224ab74b4572940259"
+    },
+    {
+      "relative_path": "预调研/code/main.py",
+      "size_bytes": 19583,
+      "sha256": "dd7fe708d6374f818d2adb5067539e438ac3ba4aa4031dbabbe258c8c037c598"
+    },
+    {
+      "relative_path": "预调研/code/pdf_extractor.py",
+      "size_bytes": 6507,
+      "sha256": "d222bc081bedddc75609e71ed394f43aa1999f84d35f51255bb4f2b7cdfebde1"
+    },
+    {
+      "relative_path": "预调研/code/visualizer.py",
+      "size_bytes": 10616,
+      "sha256": "d7ac7600af817017b1f8516c1d2d6097e900320d9840897558a62ce2d3bc8a40"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/01_大气污染防治行动计划_2013_国务院.json",
+      "size_bytes": 89570,
+      "sha256": "1e2fd65d5d6b8ce12f073fe5c64fffd1ce16ca4b19f215c3980c662e202c3e2f"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/02_水污染防治行动计划_2015_国务院.json",
+      "size_bytes": 144186,
+      "sha256": "06607dc1b74c20729f8e2db14ddbac5813631568f56413a0414c325a6bf153ec"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/03_土壤污染防治行动计划_2016_国务院.json",
+      "size_bytes": 123256,
+      "sha256": "dd5f7ae6b807db7a5762804edac4a8d9b12f418b55d43074f678a0a686470316"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/04_环境保护税法_2016.json",
+      "size_bytes": 34252,
+      "sha256": "26864685f79d2a704bc5df8379eed9415997662d154d099fe3b9f963f6ef1c25"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/05_碳排放权交易管理办法_2021_生态环境部.json",
+      "size_bytes": 48526,
+      "sha256": "462fcc25d1e05164acaa61d305fbf1ca5bd86eaf3d67871b17b4128cbf69c81e"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/06_环境保护法_2014修订.json",
+      "size_bytes": 87151,
+      "sha256": "e9bb36a31304a217a750425a6aeb2dcaba59de5a9c03d7f70778388c6d7b7a28"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/07_绿色低碳循环发展经济体系指导意见_2021_国务院.json",
+      "size_bytes": 57511,
+      "sha256": "2a569c530b6a9bb73c46e1cc48c017e652fe17cc23753c5c233a4487d7b36f8e"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/08_排污许可管理条例_2021_国务院.json",
+      "size_bytes": 74446,
+      "sha256": "99c32db84d4ab5c4221024e474219f5aadcdfc847466c296a733e919392de114"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/09_企业环境信息依法披露管理办法_2021_生态环境部.json",
+      "size_bytes": 39492,
+      "sha256": "3621e4cf895ddf01f96b5f9d9565bf4f6cb7a943a5189f506e330dc029908562"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/10_北京市大气污染防治条例_2014.json",
+      "size_bytes": 129760,
+      "sha256": "5240da46d02a5b64bd42cfed51318b61a9ba8d909f03422f690dc8ab95551ed5"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/11_中华人民共和国水污染防治法_2017修正.json",
+      "size_bytes": 251970,
+      "sha256": "b63e980e3d0accff719081aff0d8a70d0455d0c24efed9e327bb9c2401973f2f"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/12_中华人民共和国大气污染防治法_2018修正.json",
+      "size_bytes": 283756,
+      "sha256": "cf0257f5e3e30eb92a14a4d06894e93fa0175b8c72941feb0c05a155dd86373f"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/13_中华人民共和国固体废物污染环境防治法_2020修订.json",
+      "size_bytes": 288924,
+      "sha256": "50e253130933cb1e42d7d8b9effba9b4a4b808e7b0e493de63061f8692205418"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/14_中华人民共和国环境噪声污染防治法_2018修正.json",
+      "size_bytes": 126263,
+      "sha256": "0ff0b3648079df66319db7cd477a14772cd1e4d9efe3d9b901b27e93e949dbbc"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/15_中华人民共和国土壤污染防治法_2018公布.json",
+      "size_bytes": 205123,
+      "sha256": "76e2695e2805d06dfcd3d8fec3cbdbe92db3c62f79f146c1f2ca9c74861a993d"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/16_中华人民共和国海洋环境保护法_2023修订.json",
+      "size_bytes": 273025,
+      "sha256": "aaad39673d8cbec670b845b299293cd011825fc17718d3ff3177831e7ea74ee3"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/17_中华人民共和国长江保护法_2020公布.json",
+      "size_bytes": 198463,
+      "sha256": "98f50e1df32748e866eb294f89f5fd3079c0da1e3647576af03683dcf853bc48"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/18_中华人民共和国黄河保护法_2022公布.json",
+      "size_bytes": 253316,
+      "sha256": "5fec2d6318dc36c27385229c2109679b57e07029c577ed3ff0cc22d01e3f0370"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/19_中华人民共和国湿地保护法_2021公布.json",
+      "size_bytes": 128521,
+      "sha256": "09f8b0267ada569caa548a933537d6e559352d33419863d3f2db18d4591b9495"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/20_中华人民共和国清洁生产促进法_2012修正.json",
+      "size_bytes": 94070,
+      "sha256": "97d7c081dba32edb054a137e5226e285fcb1d142b837c41c294c03e31e1dfc97"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/21_中华人民共和国环境影响评价法_2018修正.json",
+      "size_bytes": 105791,
+      "sha256": "1f367daf84f48786ac3c27ad51d79e30e18cedaed67351e942b2d6f787faac46"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/22_中华人民共和国节约能源法_2018修正.json",
+      "size_bytes": 148141,
+      "sha256": "18ffea309448467cf1a6f810d219f1c1b407906ca6073aebb0c9161b2952dfca"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/23_中华人民共和国可再生能源法_2009修正.json",
+      "size_bytes": 87181,
+      "sha256": "90d28675f2ea331a89bfb2af00540696a594a63e52a8b5a8e198ac32a5c3b38c"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/24_碳排放权交易管理暂行条例_2024公布.json",
+      "size_bytes": 51354,
+      "sha256": "81da9530d12c24001ba9b2c5b758a930520abe1bc004ebb697d1dc0ccf589967"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/25_建设项目环境保护管理条例_2017修订.json",
+      "size_bytes": 40372,
+      "sha256": "7b186bdbdd60a5848da9245566836e62aff5f95dc8e4d6a6b33e89842697f255"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/26_畜禽规模养殖污染防治条例_2013公布.json",
+      "size_bytes": 46977,
+      "sha256": "6247a8d24185cb047fd2722448775cae011c6f232ac550183e61f2b2b56dedcb"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/27_城镇排水与污水处理条例_2013公布.json",
+      "size_bytes": 96817,
+      "sha256": "eab8b90506e091e4cf6ab64ab99151f2ad02fdd531ad6abd3e61b52d79e10d3c"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/28_消耗臭氧层物质管理条例_2023修订.json",
+      "size_bytes": 67124,
+      "sha256": "5d545e70cb207dad63cb3a33208a528a170d9ddc219fad47ec783e028418715e"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/29_打赢蓝天保卫战三年⾏动计划_2018公布.json",
+      "size_bytes": 143570,
+      "sha256": "4eb87702f108761e0f8d21a38a45772a58ebcfb7dd3c7afc5d933990d20f1b4a"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/30_关于全⾯加强⽣态环境保护坚决打好污染_2018公布.json",
+      "size_bytes": 120057,
+      "sha256": "c5dbce9b49290cd246d6bfbab001bf825ea3bfcc130fa279aa45a531000a8047"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/31_关于深⼊打好污染防治攻坚战的意⻅_2021公布.json",
+      "size_bytes": 86990,
+      "sha256": "32c7f666ca6acdc4a4f41f022aa278073c2cec1462e15255b7e8d50d49cb601d"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/32_2030年前碳达峰行动方案_2021公布.json",
+      "size_bytes": 127254,
+      "sha256": "29cbdf8d8b4627831cc8d7924daf3c306de1202f5dde5669a048eaaed7de1178"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/33_中共中央国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见_2021.json",
+      "size_bytes": 68886,
+      "sha256": "8cbd867fdfb58081535792b60231056cb91d2aae5a1a0b50db3700287b613035"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/34_⽣态⽂明体制改⾰总体⽅案_2015公布.json",
+      "size_bytes": 107062,
+      "sha256": "8f40b41b91ab430ceeca1b9304b727a62a5780d70e36ac5fb974eebffab3b73c"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/35_关于构建现代环境治理体系的指导意⻅_2020公布.json",
+      "size_bytes": 40355,
+      "sha256": "96f4596e03a60624dd4e53457e015c72d72c79aa0cbe1646dae8c5f44f03ab3b"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/36_国务院关于加快经济社会发展全面绿色转型的意见_2024公布.json",
+      "size_bytes": 86374,
+      "sha256": "24d3c40ee3d34725ef498c60441d00a4e18e3b1b8d12941c9427937d3edb5250"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/37_关于推进污水资源化利用的指导意见_2021.json",
+      "size_bytes": 45584,
+      "sha256": "49e87da6351b4ad79df130875dbeea02f4a970fd5e74902fdbcf609649da63dc"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/38_空气质量持续改善行动计划_2023公布.json",
+      "size_bytes": 79313,
+      "sha256": "2bf701faf22c7aa410a4e249dc33182aaba2dea1e3619feab6fc9718362f9a76"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/39_环境影响评价公众参与办法_2018公布.json",
+      "size_bytes": 42271,
+      "sha256": "9d6552056e866736132d1864b6adb9875f1525350d670ab51aecf233589d37c6"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/40_排污许可管理办法_2018公布.json",
+      "size_bytes": 63325,
+      "sha256": "c0ade7df0c69d1b4a2abae2e296d4f111b6520cc108a5ec893065a490b47b1a6"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/41_生态环境损害赔偿管理规定_2022公布.json",
+      "size_bytes": 58176,
+      "sha256": "23cbb5e78fe4a428f2f4473b2822b8ff0fdbe2038a0ccfc8a5452571813f89f1"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/42_国家危险废物名录_2024公布.json",
+      "size_bytes": 10285,
+      "sha256": "7802d131f3a67b9c5d4f17c19e5a5a6c1ff80e709af92b6018b362ae04ee6ce4"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/43_建设用地土壤污染风险管控和修复监测技术导则_2019公布.json",
+      "size_bytes": 111762,
+      "sha256": "6b52998d586e66b42a2b2bc018444f8772e77c4eb663b6849cb70a30370fe36e"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/44_碳排放权登记管理规则（试⾏）_2021公布.json",
+      "size_bytes": 26410,
+      "sha256": "0385243cffb8d387266f46d39cf51718e15890bfdaad7d0636a2ce48271307ca"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/45_上海市环境保护条例_2022公布.json",
+      "size_bytes": 173006,
+      "sha256": "104194d5459fe492bb405f8877f35a3bc0d54546ffe5a54532f8614f178ab59f"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/46_⼴东省环境保护条例_2018修订.json",
+      "size_bytes": 157837,
+      "sha256": "93dc398e3bdae8a27e5221af7898d7b962a2841a9e4d67ec9e717052a2d34d7d"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/47_河北省大气污染防治条例_2021公布.json",
+      "size_bytes": 253985,
+      "sha256": "d6070635a61bf60e9ee69e73fdc969930fd4dc294cb519ac436c577cdb032ea9"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/48_浙江省生态环境保护条例_2022公布.json",
+      "size_bytes": 111108,
+      "sha256": "467730827fc7f2f6c661bd6036e1414c5b7e47cd64aef12bda91004a1e7d7602"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/49_深圳经济特区生态环境保护条例_2021公布.json",
+      "size_bytes": 185973,
+      "sha256": "94d261d935254560c722f0b29c9c747511be3e9fcb101d6461b8ecbef088ebdb"
+    },
+    {
+      "relative_path": "预调研/output/extracted_text/50_江苏省生态环境监测条例_2020发布.json",
+      "size_bytes": 56464,
+      "sha256": "0973ba088e3f6a5345889d48192bec76a7d6623ad99875ae175407820b3efb90"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/01_大气污染防治行动计划_2013_国务院_result.json",
+      "size_bytes": 503558,
+      "sha256": "31dd3b927c6257e732ca692e0d871aa3bfab9ecd80f97db0d23094d503b48db7"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/02_水污染防治行动计划_2015_国务院_result.json",
+      "size_bytes": 916946,
+      "sha256": "9a50a00f63c0ef95ab4fa996f104f0e363ed36de08fb3af0e63c9be38abd0be2"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/03_土壤污染防治行动计划_2016_国务院_result.json",
+      "size_bytes": 807177,
+      "sha256": "defe4f7aaff7cbd64c7c32e7704fd4e5f344d662741101ef4490c6cf8fe1762f"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/04_环境保护税法_2016_result.json",
+      "size_bytes": 358403,
+      "sha256": "36738d919eed8bd03d5c7d8b7696c8419f9d6fc1b1eb80dbd5e51725f237bdb0"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/05_碳排放权交易管理办法_2021_生态环境部_result.json",
+      "size_bytes": 378941,
+      "sha256": "42f246cefefffb8719db0da8459dcdb1f46b7589808eb65e70f80e621f53e9e1"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/06_环境保护法_2014修订_result.json",
+      "size_bytes": 475103,
+      "sha256": "241614d03ae3fab770540491aba8398e482b2bae2a65e48c97d6f82e5d8ac5bd"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/07_绿色低碳循环发展经济体系指导意见_2021_国务院_result.json",
+      "size_bytes": 390916,
+      "sha256": "bba54abba6bf29a3b88dfbdaca9bee2b1a9ce6cd3f437311b8cbcf63a05f63af"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/08_排污许可管理条例_2021_国务院_result.json",
+      "size_bytes": 449849,
+      "sha256": "97114ab3632f9f9dc8765669e6c19cf545520c59a926a2a24f2877f2b925e9fa"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/09_企业环境信息依法披露管理办法_2021_生态环境部_result.json",
+      "size_bytes": 353987,
+      "sha256": "8ef7fe8fc4e0cf2d13671fdbb1b54a1ff7408aa26ac17c997c77ff5243c15c71"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/10_北京市大气污染防治条例_2014_result.json",
+      "size_bytes": 838258,
+      "sha256": "0aaab13ec74b951b301f7ffb79249499f66c154827760d63801d28514f0a6de6"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/11_中华人民共和国水污染防治法_2017修正_result.json",
+      "size_bytes": 1347247,
+      "sha256": "c2e3635c849f952251e38e3b58de32fb58d49c062524c5071250e074bc27e8dd"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/12_中华人民共和国大气污染防治法_2018修正_result.json",
+      "size_bytes": 1584540,
+      "sha256": "5a58a519bf325246538c4664e861a1f9dd01786a99b4efd165959e802107f864"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/13_中华人民共和国固体废物污染环境防治法_2020修订_result.json",
+      "size_bytes": 1601039,
+      "sha256": "dbbc9c36d76bb37151f7927a4b49cc23a21ff6bbf10989297c489ec8ecdf4769"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/14_中华人民共和国环境噪声污染防治法_2018修正_result.json",
+      "size_bytes": 738969,
+      "sha256": "01302a97a10973e1dfaaa7897a15166376c76045a18e023965d84adf000a8bd1"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/15_中华人民共和国土壤污染防治法_2018公布_result.json",
+      "size_bytes": 1234157,
+      "sha256": "4e17aa8c11fe8252208d1fd2c82951786b54447d4cfffb1f08b1736fea85fe54"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/16_中华人民共和国海洋环境保护法_2023修订_result.json",
+      "size_bytes": 1608008,
+      "sha256": "900b97fbd2558b9a832004cc8659cb24a1aa157d5c21d3d89d54a7113724d9b9"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/17_中华人民共和国长江保护法_2020公布_result.json",
+      "size_bytes": 1176771,
+      "sha256": "d7216bef23ace05dcee2c46ce5244138dcc584775048c8023bfeead8f0512637"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/18_中华人民共和国黄河保护法_2022公布_result.json",
+      "size_bytes": 1367784,
+      "sha256": "41a654a6f0c4c4441f5610f9e93b76768adb8cc9cca736459e7266be7af61719"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/19_中华人民共和国湿地保护法_2021公布_result.json",
+      "size_bytes": 773812,
+      "sha256": "d0571c6397721435dc6a776fd5d51f28d2a33da444db86931498e1b3dab793ca"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/20_中华人民共和国清洁生产促进法_2012修正_result.json",
+      "size_bytes": 463193,
+      "sha256": "ed174d2bf6ea2ae007fdbb75e699270b30507e6306581b5785fcd2c716efa5ec"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/21_中华人民共和国环境影响评价法_2018修正_result.json",
+      "size_bytes": 727412,
+      "sha256": "ba879b3d43bf5f8ecc022a8fddd348c2e87f340c5c71718b6b067f4e818d6a8e"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/22_中华人民共和国节约能源法_2018修正_result.json",
+      "size_bytes": 874941,
+      "sha256": "a7aa2fb09681a1dcd0d8b2764c5813b840585f83778ab9c5455c19e21de5bb61"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/23_中华人民共和国可再生能源法_2009修正_result.json",
+      "size_bytes": 465673,
+      "sha256": "c9f14e2924f1ad09d4178e40eb350f57e15f280f59e5b0debc1c9a489954ee8a"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/24_碳排放权交易管理暂行条例_2024公布_result.json",
+      "size_bytes": 370575,
+      "sha256": "68b2f0b1e84675d1c8a53724cd1ac7420d5023000e6736766077e71b09e662b7"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/25_建设项目环境保护管理条例_2017修订_result.json",
+      "size_bytes": 343250,
+      "sha256": "1ea223d6646ea6f89a39fc2c7a3645559250f056288352fc56ccfe2465610077"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/26_畜禽规模养殖污染防治条例_2013公布_result.json",
+      "size_bytes": 367638,
+      "sha256": "e7c16e9edf09aad0a4328687697eb424b624c4d4224e4e4e8f2361b4d88a0de5"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/27_城镇排水与污水处理条例_2013公布_result.json",
+      "size_bytes": 464615,
+      "sha256": "f71bfc8b34e2b51e518b136e0f16ea105220127090955877a28811f62bc874f3"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/28_消耗臭氧层物质管理条例_2023修订_result.json",
+      "size_bytes": 466579,
+      "sha256": "629056afd6de3b2f12ce66c733abaf9b83af3fa9b7bbdbd9dfc630b37b2b79ce"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/29_打赢蓝天保卫战三年⾏动计划_2018公布_result.json",
+      "size_bytes": 951071,
+      "sha256": "c9e158c8e48966d64d306291e649eefd3d228053182ae40eab522dd34e92018f"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/30_关于全⾯加强⽣态环境保护坚决打好污染_2018公布_result.json",
+      "size_bytes": 934996,
+      "sha256": "2cd59dc9e96c96164bd90d7776114a5761811d897b116c7ec4436870cc2f8477"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/31_关于深⼊打好污染防治攻坚战的意⻅_2021公布_result.json",
+      "size_bytes": 546343,
+      "sha256": "e53cadf25127d4f50afdb34b5bc2b7e1ddb2ae8ebf86de43034575f6c565615b"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/32_2030年前碳达峰行动方案_2021公布_result.json",
+      "size_bytes": 833456,
+      "sha256": "709f3c4f4641c1534390576bb3649b3363e66de70677caf0d1e222f4f259fbd8"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/33_中共中央国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见_2021_result.json",
+      "size_bytes": 467312,
+      "sha256": "8c5a080bf26aa91f7e9dfb48a725860aa6777b0e0b626133625ff58ab2651c24"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/34_⽣态⽂明体制改⾰总体⽅案_2015公布_result.json",
+      "size_bytes": 514431,
+      "sha256": "3d62c084b4ce74b1aba8980bb252eac7e75d77cbf836bbfe47dceb996db1f516"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/35_关于构建现代环境治理体系的指导意⻅_2020公布_result.json",
+      "size_bytes": 341342,
+      "sha256": "d0f14da3da4629249a973613d6baea865f767c656ce5d166c983cd2682f6f5c7"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/36_国务院关于加快经济社会发展全面绿色转型的意见_2024公布_result.json",
+      "size_bytes": 489661,
+      "sha256": "cd78b9fa4d941302d1e902ac6fbc089d2ee33b572a4cea747752b6e095125e8a"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/37_关于推进污水资源化利用的指导意见_2021_result.json",
+      "size_bytes": 362100,
+      "sha256": "aaf1c823d6df3a66dfafa35516fc213e582614183eacd14ae845f4779f30cd21"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/38_空气质量持续改善行动计划_2023公布_result.json",
+      "size_bytes": 468657,
+      "sha256": "d96ad523f92faff275c1489cd39b4b962ede598c52da2b4feb0ad6172f099798"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/39_环境影响评价公众参与办法_2018公布_result.json",
+      "size_bytes": 347475,
+      "sha256": "b6291d0a7541e62ad2165176a21b374e4aafabe254a19d66dcf3b3d17c603ed5"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/40_排污许可管理办法_2018公布_result.json",
+      "size_bytes": 425140,
+      "sha256": "90e9611d231bc365015521d30aaf605d81be4fc80a0ab703eecb12fa01a7c5f9"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/41_生态环境损害赔偿管理规定_2022公布_result.json",
+      "size_bytes": 434489,
+      "sha256": "b3831e0c83fc20dbce94557013f484b5110d5ff656731f593ad75dd4428dfdd3"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/42_国家危险废物名录_2024公布_result.json",
+      "size_bytes": 257796,
+      "sha256": "9b7d607789ef1279c16c0e854a3af79e32739c073fdf8c6c01ca3f1be72630b8"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/43_建设用地土壤污染风险管控和修复监测技术导则_2019公布_result.json",
+      "size_bytes": 727568,
+      "sha256": "96c3a827ce542995e70dd7f8d860734d8192b751e20508ebc65cf50c9743794f"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/44_碳排放权登记管理规则（试⾏）_2021公布_result.json",
+      "size_bytes": 300192,
+      "sha256": "36f1466e5b2735f3e81594afa02e8574519a4b4d4fe3adbbf6f37e8348a29354"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/45_上海市环境保护条例_2022公布_result.json",
+      "size_bytes": 960190,
+      "sha256": "c1ebf707d8523eca2cd5d728e60daef923f7c2e26f5fd5e12a6671c810451315"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/46_⼴东省环境保护条例_2018修订_result.json",
+      "size_bytes": 909847,
+      "sha256": "babb3f63531e9d96dca664aa04ffdd55f05615d7722dcf057365f1566a5fb1a2"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/47_河北省大气污染防治条例_2021公布_result.json",
+      "size_bytes": 1370116,
+      "sha256": "0e86a8fc0b4af01d5c38a18cee42f717d0569b9037c467b08347b71674733d6e"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/48_浙江省生态环境保护条例_2022公布_result.json",
+      "size_bytes": 692275,
+      "sha256": "4daf133b6e931a35e551b56ada2bcd95a0fdf6dfd2d74179aee0c7be257f09c3"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/49_深圳经济特区生态环境保护条例_2021公布_result.json",
+      "size_bytes": 1175527,
+      "sha256": "ce05fa183ec876fbe2bf35b8fbc3436118ae7b9ce969eead3decca31622f733b"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/50_江苏省生态环境监测条例_2020发布_result.json",
+      "size_bytes": 397232,
+      "sha256": "1a9f17a361eeda7b809e3a61068771003fbe5e1f6fd19a0d5455078b32159dfa"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/all_raw_results.json",
+      "size_bytes": 35793789,
+      "sha256": "717b85a5375c52f9ab5b8913725a93f8dbd7303a9930170fba2e44ece8b9f0b9"
+    },
+    {
+      "relative_path": "预调研/output/llm_results/all_results_summary.json",
+      "size_bytes": 177979,
+      "sha256": "53d73c154b92f4e2bef3e0965c61295b2d62d15fcc7dcb982cb6d84af034447e"
+    },
+    {
+      "relative_path": "预调研/政策文件/01_大气污染防治行动计划_2013_国务院.pdf",
+      "size_bytes": 409895,
+      "sha256": "860dbd51131c30e0063ab50743c84b94f40f598ff194d499fbf3a155882bf375"
+    },
+    {
+      "relative_path": "预调研/政策文件/02_水污染防治行动计划_2015_国务院.pdf",
+      "size_bytes": 530041,
+      "sha256": "5e68e6f5ce509f089fe01990de24c7fff492d6eccc8f2147ebfc4e6cd0936fc3"
+    },
+    {
+      "relative_path": "预调研/政策文件/03_土壤污染防治行动计划_2016_国务院.pdf",
+      "size_bytes": 684312,
+      "sha256": "215a2fda2a6b1d23ebadfc39e58d39bb6ff7990137e6303ac2b9b8dc52600360"
+    },
+    {
+      "relative_path": "预调研/政策文件/04_环境保护税法_2016.pdf",
+      "size_bytes": 1635959,
+      "sha256": "91b86234c1448f82171f3c112d86ff8e64a8c49488e4fe228029503f7f839605"
+    },
+    {
+      "relative_path": "预调研/政策文件/05_碳排放权交易管理办法_2021_生态环境部.pdf",
+      "size_bytes": 199699,
+      "sha256": "3c0335ff02ff89ef8400151b1d93e928a07b26440a5554dad3c6f07bd81d2b43"
+    },
+    {
+      "relative_path": "预调研/政策文件/06_环境保护法_2014修订.pdf",
+      "size_bytes": 308127,
+      "sha256": "8da0c22de1c3df3c7359de8cc765cd7ad2b261da379492c03b9b6bfdfef6db0d"
+    },
+    {
+      "relative_path": "预调研/政策文件/07_绿色低碳循环发展经济体系指导意见_2021_国务院.pdf",
+      "size_bytes": 390986,
+      "sha256": "eb74c19521fd5656fabffe203b9489cd9358f36fd9915f55dbf7ef4cfc5dd825"
+    },
+    {
+      "relative_path": "预调研/政策文件/08_排污许可管理条例_2021_国务院.pdf",
+      "size_bytes": 700049,
+      "sha256": "1060209d341cdfa38bd12887349302cae257f029869f5870f9815f06e2be9c33"
+    },
+    {
+      "relative_path": "预调研/政策文件/09_企业环境信息依法披露管理办法_2021_生态环境部.pdf",
+      "size_bytes": 318918,
+      "sha256": "21b324f09890dd0b54325a9e0364f221509b42ec9642a74ad65cad0574f21e6c"
+    },
+    {
+      "relative_path": "预调研/政策文件/10_北京市大气污染防治条例_2014.pdf",
+      "size_bytes": 672142,
+      "sha256": "39fecf6dfeb5af43782b7a7872ffafda28f8b3ac2ad00c5a69a80f7f5ea0ee94"
+    },
+    {
+      "relative_path": "预调研/政策文件/11_中华人民共和国水污染防治法_2017修正.pdf",
+      "size_bytes": 578525,
+      "sha256": "bba3231f0afa46c96fbb1eefc5c000e3c531999b91a559c4dd9c97447bafbb7f"
+    },
+    {
+      "relative_path": "预调研/政策文件/12_中华人民共和国大气污染防治法_2018修正.pdf",
+      "size_bytes": 605712,
+      "sha256": "c22681abf768b2d36fce9b29927b72b405c31e7f84d79a7cad2f27953c773bc9"
+    },
+    {
+      "relative_path": "预调研/政策文件/13_中华人民共和国固体废物污染环境防治法_2020修订.pdf",
+      "size_bytes": 598775,
+      "sha256": "aec64cfb7952c3d5771ead239f00f10ea6323e2c91ae7b303ef895dc3c29ba21"
+    },
+    {
+      "relative_path": "预调研/政策文件/14_中华人民共和国环境噪声污染防治法_2018修正.pdf",
+      "size_bytes": 372575,
+      "sha256": "a5e1fc729628f4542b5024b268df6766a3b73d1d90857f8a5655f84b792c991f"
+    },
+    {
+      "relative_path": "预调研/政策文件/15_中华人民共和国土壤污染防治法_2018公布.pdf",
+      "size_bytes": 446484,
+      "sha256": "3da3c109bd0a14706e5457f2727ee352684e7bc3d68e4a766bc70b0731078dd9"
+    },
+    {
+      "relative_path": "预调研/政策文件/16_中华人民共和国海洋环境保护法_2023修订.pdf",
+      "size_bytes": 551584,
+      "sha256": "176cd7118d654bf37e6bfe24fef4aa64d0f118fb1b00345d551af7256486851e"
+    },
+    {
+      "relative_path": "预调研/政策文件/17_中华人民共和国长江保护法_2020公布.pdf",
+      "size_bytes": 436148,
+      "sha256": "a3cda51456ef8c44db09e2a376d48bf675da5934c12ae82f7714d5b076060010"
+    },
+    {
+      "relative_path": "预调研/政策文件/18_中华人民共和国黄河保护法_2022公布.pdf",
+      "size_bytes": 458592,
+      "sha256": "bd1da0765f32bf5c8d4fadb52c85bc58166e9d5f247e690aa785df264161fc23"
+    },
+    {
+      "relative_path": "预调研/政策文件/19_中华人民共和国湿地保护法_2021公布.pdf",
+      "size_bytes": 360974,
+      "sha256": "0a100f86855ac8121251c8b71923750af890670e87c5a30f4f1ba97a60889359"
+    },
+    {
+      "relative_path": "预调研/政策文件/20_中华人民共和国清洁生产促进法_2012修正.pdf",
+      "size_bytes": 292518,
+      "sha256": "84b917ea8421c78d4f5b2cd32f46088ff733d976b3db45b65ed11f70d8393a31"
+    },
+    {
+      "relative_path": "预调研/政策文件/21_中华人民共和国环境影响评价法_2018修正.pdf",
+      "size_bytes": 313738,
+      "sha256": "37a08a4480414c24b4210378e357018cf74a9611bf52a806dfaf82de2e749f57"
+    },
+    {
+      "relative_path": "预调研/政策文件/22_中华人民共和国节约能源法_2018修正.pdf",
+      "size_bytes": 378969,
+      "sha256": "ba5095cbb64bb24cdd6222e28af7e6c436a1f2b0a8e324d11b181eaec9c36e1b"
+    },
+    {
+      "relative_path": "预调研/政策文件/23_中华人民共和国可再生能源法_2009修正.pdf",
+      "size_bytes": 277672,
+      "sha256": "50b9355f3a7b91875f3ee83211276bf3649e9230fb52b5cecbb17fd296280c4f"
+    },
+    {
+      "relative_path": "预调研/政策文件/24_碳排放权交易管理暂行条例_2024公布.pdf",
+      "size_bytes": 191917,
+      "sha256": "cdf1541567487222c6bd6d8dab4b2046bf5eef5f1c2b80e39a2fb180058d9d3a"
+    },
+    {
+      "relative_path": "预调研/政策文件/25_建设项目环境保护管理条例_2017修订.pdf",
+      "size_bytes": 125144,
+      "sha256": "68620a2e97938fbe5db0d3e2aefee35c87da9b7543d67c37baa8b1f72a5d4865"
+    },
+    {
+      "relative_path": "预调研/政策文件/26_畜禽规模养殖污染防治条例_2013公布.pdf",
+      "size_bytes": 147396,
+      "sha256": "097e1ef9723508ac0fbd834fcacef9d4cb58a1344dca8ea8b43c88fd1840495c"
+    },
+    {
+      "relative_path": "预调研/政策文件/27_城镇排水与污水处理条例_2013公布.pdf",
+      "size_bytes": 294355,
+      "sha256": "2958d625be599bf6a19e55f3dbb069490a9d423ad5980916443a4b495188f447"
+    },
+    {
+      "relative_path": "预调研/政策文件/28_消耗臭氧层物质管理条例_2023修订.pdf",
+      "size_bytes": 147432,
+      "sha256": "64aa05a1468edd8cc94e2b08559b1278beba59a60691484f3aa97ce587c19692"
+    },
+    {
+      "relative_path": "预调研/政策文件/29_打赢蓝天保卫战三年⾏动计划_2018公布.pdf",
+      "size_bytes": 233858,
+      "sha256": "1c4b8fe56e5a5e52b34cbc06303f89d4c968dd99be02152f9c19023d1fdc0e5a"
+    },
+    {
+      "relative_path": "预调研/政策文件/30_关于全⾯加强⽣态环境保护坚决打好污染_2018公布.pdf",
+      "size_bytes": 275342,
+      "sha256": "b480859865c8b699a05531d237726dfc6b0eac468f059cc9023770c4c8193abe"
+    },
+    {
+      "relative_path": "预调研/政策文件/31_关于深⼊打好污染防治攻坚战的意⻅_2021公布.pdf",
+      "size_bytes": 444323,
+      "sha256": "471f5a2ef5b8923f039eda54b7061fd997fbce71868f06a4720dc35b354bdcba"
+    },
+    {
+      "relative_path": "预调研/政策文件/32_2030年前碳达峰行动方案_2021公布.pdf",
+      "size_bytes": 1866935,
+      "sha256": "cd615001d6af39d96e273f779268a608c112c31123676856cea2c0db82fe7386"
+    },
+    {
+      "relative_path": "预调研/政策文件/33_中共中央国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见_2021.pdf",
+      "size_bytes": 1692039,
+      "sha256": "524a33628942c83a99a520edab3cf7ab17403d29358e10c314cb1e06f5386221"
+    },
+    {
+      "relative_path": "预调研/政策文件/34_⽣态⽂明体制改⾰总体⽅案_2015公布.pdf",
+      "size_bytes": 177895,
+      "sha256": "ff941d9a8f8fe0e6c8515efbdd2ea5ef121be26ff3e226e4f5ea98af94ef451d"
+    },
+    {
+      "relative_path": "预调研/政策文件/35_关于构建现代环境治理体系的指导意⻅_2020公布.pdf",
+      "size_bytes": 134832,
+      "sha256": "4e1e4b0fc7d8812f9b3c5945475e5e2b2207bb8c26abe7128d25f9255061293f"
+    },
+    {
+      "relative_path": "预调研/政策文件/36_国务院关于加快经济社会发展全面绿色转型的意见_2024公布.pdf",
+      "size_bytes": 3784594,
+      "sha256": "0af95fb1431badebeff4743e3fd457ec78a4946b220ab0a74742e4a3c06a6b24"
+    },
+    {
+      "relative_path": "预调研/政策文件/37_关于推进污水资源化利用的指导意见_2021.pdf",
+      "size_bytes": 1650373,
+      "sha256": "e4c32805fc246114efe363d2438f6532278e85a54977b2f79c1fcf3cbb0197ef"
+    },
+    {
+      "relative_path": "预调研/政策文件/38_空气质量持续改善行动计划_2023公布.pdf",
+      "size_bytes": 4579103,
+      "sha256": "0a833953752cf8abe0b5c41b7b5673afd17f069c2e6b96e658452288b9c357fc"
+    },
+    {
+      "relative_path": "预调研/政策文件/39_环境影响评价公众参与办法_2018公布.pdf",
+      "size_bytes": 204286,
+      "sha256": "c7e5f8db05a724c7f5a275d18423edd5509e0c9d8edf819462aa9980aafb7e8a"
+    },
+    {
+      "relative_path": "预调研/政策文件/40_排污许可管理办法_2018公布.pdf",
+      "size_bytes": 1665052,
+      "sha256": "6509b920be86ec2d4c800387032fdc203a968198815982c43cfafc0d45ecea26"
+    },
+    {
+      "relative_path": "预调研/政策文件/41_生态环境损害赔偿管理规定_2022公布.pdf",
+      "size_bytes": 252828,
+      "sha256": "e97107db2849a46dbcf0fef8cacdf762e6f72ff152bc55b80b08655b9c925ea6"
+    },
+    {
+      "relative_path": "预调研/政策文件/42_国家危险废物名录_2024公布.pdf",
+      "size_bytes": 261852,
+      "sha256": "545144a5c4b4c5bd389cd1c163431ed19f3adcfe227f0a51e0753e6c83a413c2"
+    },
+    {
+      "relative_path": "预调研/政策文件/43_建设用地土壤污染风险管控和修复监测技术导则_2019公布.pdf",
+      "size_bytes": 508680,
+      "sha256": "62d13b5e891351b200b28cd6953fac5bee647a8689b811d72099cc193077ca3a"
+    },
+    {
+      "relative_path": "预调研/政策文件/44_碳排放权登记管理规则（试⾏）_2021公布.pdf",
+      "size_bytes": 158035,
+      "sha256": "c77b25052a7c6cc623ab078250535450e276f165a74901d0d9f74b5ef397da68"
+    },
+    {
+      "relative_path": "预调研/政策文件/45_上海市环境保护条例_2022公布.pdf",
+      "size_bytes": 720984,
+      "sha256": "f505e917fa08391cd7c371d9a91181aee7223e3439e18c2a9547dd5573a86635"
+    },
+    {
+      "relative_path": "预调研/政策文件/46_⼴东省环境保护条例_2018修订.pdf",
+      "size_bytes": 1050071,
+      "sha256": "e47d8eebac3a8650c589365a0c22ae8349bdfee375462b485a98def4c9330aac"
+    },
+    {
+      "relative_path": "预调研/政策文件/47_河北省大气污染防治条例_2021公布.pdf",
+      "size_bytes": 1499587,
+      "sha256": "5acfd6bdb0dbd2d32e9ed0410d8dc4c49341e23a20577adf081e94bca3079d7f"
+    },
+    {
+      "relative_path": "预调研/政策文件/48_浙江省生态环境保护条例_2022公布.pdf",
+      "size_bytes": 291024,
+      "sha256": "1c63b5a35f1dc0908d21b806fae280a3b0ceeb4dfce22297382a407971d47df5"
+    },
+    {
+      "relative_path": "预调研/政策文件/49_深圳经济特区生态环境保护条例_2021公布.pdf",
+      "size_bytes": 673306,
+      "sha256": "c795748dda8478e12cbd3d940621523f2a00164759c8eab93d7dac6b74b423b8"
+    },
+    {
+      "relative_path": "预调研/政策文件/50_江苏省生态环境监测条例_2020发布.pdf",
+      "size_bytes": 284480,
+      "sha256": "7444cbbf07e4cdd366153ad681d10ec1d4e905c4b3bfd9557cc77b2bbd8374be"
+    }
+  ],
+  "copied_source_files": 216,
+  "scan": {
+    "issues_found": 0,
+    "findings": []
+  }
+}

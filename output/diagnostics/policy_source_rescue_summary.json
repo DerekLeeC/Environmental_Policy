@@ -1,0 +1,46 @@
+[
+  {
+    "file_id": "36",
+    "pdf_relative_path": "预调研/政策文件/36_国务院关于加快经济社会发展全面绿色转型的意见_2024公布.pdf",
+    "source_url": "https://www.mee.gov.cn/zcwj/zyygwj/202409/t20240911_1085676.shtml",
+    "source_type": "official_html",
+    "html_snapshot": "data/raw/source_html/36_国务院关于加快经济社会发展全面绿色转型的意见_2024公布.html",
+    "text_output": "data/interim/source_text/36_国务院关于加快经济社会发展全面绿色转型的意见_2024公布.txt",
+    "status": "ok",
+    "char_count": 9579,
+    "error": ""
+  },
+  {
+    "file_id": "37",
+    "pdf_relative_path": "预调研/政策文件/37_关于推进污水资源化利用的指导意见_2021.pdf",
+    "source_url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202101/t20210111_1264794_ext.html",
+    "source_type": "official_html",
+    "html_snapshot": "data/raw/source_html/37_关于推进污水资源化利用的指导意见_2021.html",
+    "text_output": "data/interim/source_text/37_关于推进污水资源化利用的指导意见_2021.txt",
+    "status": "ok",
+    "char_count": 5032,
+    "error": ""
+  },
+  {
+    "file_id": "38",
+    "pdf_relative_path": "预调研/政策文件/38_空气质量持续改善行动计划_2023公布.pdf",
+    "source_url": "https://app.www.gov.cn/govdata/gov/202312/07/510055/article.html",
+    "source_type": "official_html",
+    "html_snapshot": "data/raw/source_html/38_空气质量持续改善行动计划_2023公布.html",
+    "text_output": "data/interim/source_text/38_空气质量持续改善行动计划_2023公布.txt",
+    "status": "ok",
+    "char_count": 8899,
+    "error": ""
+  },
+  {
+    "file_id": "36-ocr-dup",
+    "pdf_relative_path": "预调研/政策文件/36_国务院关于加快经济社会发展全面绿色转型的意见_2024公布(OCR).pdf",
+    "source_url": "https://www.mee.gov.cn/zcwj/zyygwj/202409/t20240911_1085676.shtml",
+    "source_type": "official_html",
+    "html_snapshot": "data/raw/source_html/36_国务院关于加快经济社会发展全面绿色转型的意见_2024公布_OCR_.html",
+    "text_output": "data/interim/source_text/36_国务院关于加快经济社会发展全面绿色转型的意见_2024公布_OCR_.txt",
+    "status": "ok",
+    "char_count": 9579,
+    "error": ""
+  }
+]
