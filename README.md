@@ -1,6 +1,6 @@
 # 解码中国环境政策：预调研开源复现包
 
-本仓库是“解码中国环境政策”项目的预调研开源复现包，面向 GitHub 公开发布场景整理。它保留了预调研阶段的政策文本、结构化抽取代码、模型结果、图表与报告，同时移除了本机绝对路径、缓存文件、临时编译产物与 API 密钥。
+本仓库是“解码中国环境政策”项目的预调研开源复现包。
 
 ## 包含内容
 
@@ -13,13 +13,6 @@
 - `scripts/analysis/`：pilot 运行、人工核验表生成、图表生成、LaTeX 报告构建脚本
 - `output/tables/prestudy_report/` 与 `output/figures/prestudy_report/`：报告表格与图形资产
 - `paper/`：预调研报告的 Markdown、LaTeX 与 PDF 版本
-
-## 未包含内容
-
-- 原项目的聊天式工作日志、答辩材料、草稿幻灯片与与预调研无关的辅助目录
-- `__pycache__`、`.aux/.log/.fdb_latexmk/.synctex.gz` 等编译缓存
-- 已失效 token 的 blocker 日志与仅用于本地调试的临时文件
-- 任何硬编码 API key、本机绝对路径和截图缓存
 
 ## 快速开始
 
